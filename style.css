@@ -11,7 +11,7 @@
 .mnav{
     /* border: 1px solid; */
 width: 100%;
-height: 25vh;
+height: 17vh;
 background-color: white;
 display: grid;
 position: sticky;
@@ -33,9 +33,6 @@ align-content: center;
         width:140%;
     }
 
-}
-.log{
-    border: 1px solid;
 }
 .ful{
     display: grid;
